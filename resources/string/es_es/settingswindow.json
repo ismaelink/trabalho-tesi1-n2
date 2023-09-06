@@ -1,0 +1,18 @@
+{
+  "window-name": "Configuración Rápida",
+  "title-langconfigcontainer": "¡Elige tu idioma preferido!",
+  "title-themeconfigcontainer": "¡Elige tu tema preferido!",
+  "welcome-title": "¡Hola, bienvenido(a)!",
+  "welcome-text": "¿Vamos a realizar algunas configuraciones rápidas?",
+  "opt-pt_br": "Portugués (Brasil)",
+  "opt-pt_pt": "Portugués (Portugal)",
+  "opt-es_es": "Español (España)",
+  "opt-en_us": "Inglés (Estados Unidos)",
+  "opt-theme_litera": "Usar tema predeterminado (Claro)",
+  "opt-theme_minty": "Usar tema Minty",
+  "opt-theme_darkly": "Usar tema oscuro",
+  "next-btn": "Siguiente",
+  "back-btn": "Volver",
+  "apply-btn": "Aplicar"
+}
+

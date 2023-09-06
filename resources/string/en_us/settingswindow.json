@@ -1,0 +1,18 @@
+{
+  "window-name": "Quick Configuration",
+  "title-langconfigcontainer": "Choose your preferred language!",
+  "title-themeconfigcontainer": "Choose your preferred theme!",
+  "welcome-title": "Hello, welcome!",
+  "welcome-text": "Let's perform some quick configurations?",
+  "opt-pt_br": "Portuguese (Brazil)",
+  "opt-pt_pt": "Portuguese (Portugal)",
+  "opt-es_es": "Spanish (Spain)",
+  "opt-en_us": "English (United States)",
+  "opt-theme_litera": "Use default theme (Light)",
+  "opt-theme_minty": "Use Minty theme",
+  "opt-theme_darkly": "Use Dark theme",
+  "next-btn": "Next",
+  "back-btn": "Back",
+  "apply-btn": "Apply"
+}
+
